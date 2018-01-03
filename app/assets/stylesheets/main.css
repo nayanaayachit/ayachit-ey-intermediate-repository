@@ -171,3 +171,8 @@ h1 {
 		-webkit-transform: scale(1.0);
 	}
 }
+.navbar-brand> img {
+    max-height: 150%;
+    margin-left:-5px;
+    margin-top:-5px;
+}
